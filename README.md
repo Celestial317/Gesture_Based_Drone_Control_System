@@ -14,7 +14,7 @@ This project explores multiple approaches to gesture and voice-based control, ai
 ```
 Gesture-Based-Drone-Control-System/
 │
-├── Dataset/ # Sample dataset used for training/classical methods
+├── Dataset(hand-keypoints)/ # Sample dataset used for training/classical methods
 ├── cnnMain.py # CNN-based gesture classification and control
 ├── mediapipeMain.py # Hand gesture recognition using MediaPipe (no dataset needed)
 ├── speechMain.py # Speech-based control using Gemini API for synonym expansion
