@@ -60,7 +60,7 @@ To run each module, ensure required libraries are installed:
 - `mediapipe`
 - `ultralytics`
 - `speechrecognition`
-- `openai` or Gemini API setup (for speech understanding)
+- `Gemini API setup (for speech understanding)`
 
 Run each script or notebook individually based on the desired functionality.
 
