@@ -2,6 +2,9 @@
 
 Welcome to the **Gesture Based Drone Control System**, an experimental project by Soumya Sourav that demonstrates how drones can be controlled without traditional remotes—relying entirely on gestures and speech-based inputs. This system leverages modern Machine Learning (ML) and Computer Vision (CV) techniques to interpret human actions and commands for drone operation.
 
+![676c564cadda6](https://github.com/user-attachments/assets/9b942b2a-a0dd-480f-a4c2-8e47b907a1c1)
+
+
 ---
 
 ## 🔍 Overview
