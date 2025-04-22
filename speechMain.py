@@ -7,7 +7,7 @@ import threading
 import time
 import google.generativeai as genai
 
-# Mediapipe setup
+
 mp_hands = mp.solutions.hands
 hands = mp_hands.Hands(min_detection_confidence=0.7, min_tracking_confidence=0.5)
 mp_drawing = mp.solutions.drawing_utils
@@ -180,7 +180,7 @@ def speech_recognition(api_key):
         latest_speech_command = {"action": "None"}
 
 def main():
-    api_key = "AIzaSyCAB4tIeEuyDuuGHySW6SnnpXxpkYkQOxo"
+    api_key = " "
     gesture_thread = threading.Thread(target=gesture_recognition)
     speech_thread = threading.Thread(target=speech_recognition, args=(api_key,))
 
